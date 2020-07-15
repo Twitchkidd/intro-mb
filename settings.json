@@ -1,30 +1,31 @@
 {
+	"breadcrumbs.enabled": false,
 	"editor.acceptSuggestionOnEnter": "off",
 	"editor.autoClosingBrackets": "always",
 	"editor.cursorStyle": "line-thin",
 	"editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontSize": 12,
 	"editor.formatOnSave": true,
+	"editor.minimap.enabled": true,
 	"editor.quickSuggestions": {
-		"other": true,
 		"comments": true,
-		"strings": true
+		"strings": true,
+		"other": true
 	},
 	"editor.quickSuggestionsDelay": 1000,
+	"editor.renameOnType": true,
 	"editor.scrollBeyondLastLine": true,
 	"editor.tabSize": 2,
 	"explorer.openEditors.visible": 0,
 	"git.countBadge": "off",
-	"prettier.tabWidth": 2,
-	"prettier.jsxSingleQuote": true,
+	"prettier.arrowParens": "avoid",
 	"prettier.jsxBracketSameLine": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
 	"problems.decorations.enabled": false,
 	"window.zoomLevel": 0,
 	"workbench.colorTheme": "Monokai Dimmed",
-	"workbench.startupEditor": "newUntitledFile",
-	"breadcrumbs.enabled": false,
-	"editor.minimap.enabled": true,
-	"prettier.arrowParens": "avoid",
-	"prettier.singleQuote": true,
-	"prettier.useTabs": true
+	"workbench.startupEditor": "newUntitledFile"
 }
