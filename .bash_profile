@@ -1,0 +1,8 @@
+alias pro="code ~/.zshrc"
+alias c.="code ."
+alias ll="ls -lah"
+alias mkdir="mkdir -pv"
+alias cp="cp -Riv"
+alias mv="mv -iv"
+alias rm="rm -dfRv"
+alias shruggie="printf \"¯\_(ツ)_/¯\" | pbcopy && echo \"¯\_(ツ)_/¯ copied to clipboard\""
