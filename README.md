@@ -25,3 +25,5 @@ So after you get the terminal running, back in VS Code hit Ctrl + Shift + 'p' to
 Actually, some of these are essential, it's just going to either go to .bash_profile or .zshrc, depending. (ACTUALLY)
 Ehh, hold this thought, re: .bash_profile, (SKIP)
 Then from the terminal, we'll learn how to navigate, make directories, files, and use nano, which we'll use to copy over the list of shortcuts in the .bash_profile file that make using the terminal easier.
+
+Hey! [Git Credential Manager For Windows!](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/tag/1.20.0)
